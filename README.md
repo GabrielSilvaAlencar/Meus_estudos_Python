@@ -4,11 +4,10 @@ Bem-vindo ao meu repositório de estudos! Este espaço foi criado para registrar
 
 🚀 Tecnologias em Foco
 
-Atualmente, estou focado em aprender e praticar as seguintes tecnologias:
+Atualmente, estou focado em aprender e praticar a seguinte tecnologia:
 
 - **Python:** Lógica de programação, manipulação de dados (listas, dicionários) e automações.
-- **Bancos de Dados:** *(Em breve)* Modelagem, consultas SQL e integração com aplicações.
-  
+
 -----
 
 📂 Organização do Repositório
