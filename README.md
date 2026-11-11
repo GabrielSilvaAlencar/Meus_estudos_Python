@@ -14,10 +14,6 @@ Atualmente, estou focado em aprender e praticar a seguinte tecnologia:
 
 O projeto está estruturado de forma simples e direta para facilitar a navegação:
 
-tipo_de_variaveis.ipynb`: Estudo sobre os tipos primitivos de dados em Python.
-misturando_tipos_de_variaveis.ipynb
-comando_format.ipynb
-
 -----
 
 
